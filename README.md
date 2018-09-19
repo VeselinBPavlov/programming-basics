@@ -1,6 +1,6 @@
 # Course: Programming Basics with C#
 
-## Subjects:
+## Topics:
 01. First Steps in Coding
 02. Simple Calculations
 03. Simple Conditional Statements
