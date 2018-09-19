@@ -9,5 +9,8 @@
 06. Drawing Figures with Loops
 07. Advanced Loops
 
+## Status:
+Completed
+
 ## Certificate:
 <img src="certificate.jpeg" >
