@@ -8,3 +8,6 @@
 05. Simple Loops
 06. Drawing Figures with Loops
 07. Advanced Loops
+
+## Certificate:
+<img src="programming-basics/certificate.jpg" >
