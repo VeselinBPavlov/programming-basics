@@ -10,4 +10,4 @@
 07. Advanced Loops
 
 ## Certificate:
-<img src="programming-basics/certificate.jpg" >
+<img src="certificate.jpeg" >
