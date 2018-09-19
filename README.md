@@ -1,2 +1,1 @@
-# programming-basics
-Course: Programming Basics with C#
+# Course: Programming Basics with C#
